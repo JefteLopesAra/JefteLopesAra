@@ -36,6 +36,6 @@
 
  <div align="center">
   <a href = "jefte.araujo.lopes05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeft%C3%A9-lopes-5a3776251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jeft%C3%A9-lopes-5a3776251(https://www.linkedin.com/in/jeft%C3%A9-lopes-9288852a9/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
